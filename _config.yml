@@ -4,8 +4,8 @@ SEOTitle: Yc'Blog
 header-img: img/a2.jpg
 email: 593003215@qq.com
 description: "“I love you three thousand."
-keyword: "“I love you three thousand, Yc'Blog, yechen, 王业晨, 593003215"
-url: "https://yechen.github.io"        # your host, for absolute URL
+keyword: "“I love you three thousand, Yc'Blog, wangyechen, 王业晨, 593003215"
+url: "https://wangyechen.github.io"        # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
@@ -63,7 +63,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: yechen.github.io    #仓库名称
+  repo: wangyechen.github.io    #仓库名称
   owner: wangyechen    #github用户名
   admin: wangyechen
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
