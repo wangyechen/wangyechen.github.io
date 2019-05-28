@@ -3,14 +3,14 @@ title: Blog Thanks
 SEOTitle: Yechen的博客 | Blog Thanks
 header-img: img/post-bg-desk.jpg
 email: 593003215@qq.com
-description: "Every failure is leading towards success."
-keyword: "Blog Thanks, Yechen的博客, wangyechen, 王业晨, 593003215"
-url: "https://wangyechen.github.io"          # your host, for absolute URL
+description: "“I love you three thousand."
+keyword: "“I love you three thousand, Yechen的博客, wangyechen, 王业晨, 593003215"
+url: "https://Yechen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Attitude determines altitude !"
+sidebar-about-description: "“I love you three thousand!"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
