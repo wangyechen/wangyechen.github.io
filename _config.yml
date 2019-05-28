@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 593003215@qq.com
 description: "“I love you three thousand."
 keyword: "“I love you three thousand, Yechen的博客, wangyechen, 王业晨, 593003215"
-url: "https://Yechen.github.io"          # your host, for absolute URL
+url: "https://wangyechen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
