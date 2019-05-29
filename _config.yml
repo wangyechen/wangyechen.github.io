@@ -3,23 +3,23 @@ title: I love you three thousand
 SEOTitle: Yc'Blog 
 header-img: img/a2.jpg
 email: 593003215@qq.com
-description: ""I love you three thousand.""
+description: "“I love you three thousand."
 keyword: "“I love you three thousand, Yc'Blog, wangyechen, 王业晨, 593003215"
 url: "https://wangyechen.github.io"        # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: ""I love you three thousand!""
+sidebar-about-description: "“I love you three thousand!"
 sidebar-avatar: /img/a1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
-# RSS: false
+RSS: false
 # weibo_username:    
 # zhihu_username:     
-# github_username:  yc 
+github_username:    Yc
 # facebook_username:  
 # jianshu_username:   
 # #twitter_username:   
@@ -32,7 +32,7 @@ sidebar-avatar: /img/a1.jpg      # use absolute URL, seeing it's used in both `/
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                        # if you want to customize anchor. check out line:181 of `post.html`
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 
